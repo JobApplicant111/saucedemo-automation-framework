@@ -248,8 +248,6 @@ Lead QA Engineer passionate about building clean, practical automation framework
 
 ## Future Roadmap and Enhancement
 
-* [ ] CI/CD with GitHub Actions
-* [ ] API Mocking & Network Intercepts
 * [ ] Docker support
 * [ ] Slack/email alerts
 
