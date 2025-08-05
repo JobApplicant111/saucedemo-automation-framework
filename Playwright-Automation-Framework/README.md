@@ -241,7 +241,7 @@ npx playwright test tests/login/login.spec.ts --grep "@smoke"
 
 ## Author
 
-**Deepti Katiyar**
+
 Lead QA Engineer passionate about building clean, practical automation frameworks that reflect real-world scenarios.
 
 ---
